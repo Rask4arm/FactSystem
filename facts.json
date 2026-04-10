@@ -1,0 +1,35 @@
+[
+  {
+    "fact": "30 million people in China live in caves.",
+    "places": [
+      "China"
+    ]
+  },
+  {
+    "fact": "In 1986, there was a program in China to relocate cave-dwelling people into better caves rather than houses.",
+    "places": [
+      "China"
+    ]
+  },
+  {
+    "fact": "15,000 people stayed in caves in Kent in England during the Second World War.",
+    "places": [
+      "Kent",
+      "England",
+      "Second World War"
+    ]
+  },
+  {
+    "fact": "There were rules in the caves in Kent enforcing quiet hours and bedtimes.",
+    "places": [
+      "Kent"
+    ]
+  },
+  {
+    "fact": "The President of China, Xi Jinping, lived in a cave for seven years during the Cultural Revolution.",
+    "places": [
+      "China",
+      "Cultural Revolution"
+    ]
+  }
+]
